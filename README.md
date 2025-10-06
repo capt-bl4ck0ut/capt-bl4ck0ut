@@ -59,7 +59,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Thank+you+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F%F0%9F%94%90" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/9bae09b25f694bd29eace7d6ce4c455a84e182af19953dc6daf3a1decb4876b0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36612f37322f37662f36613732376662616439646136313035633532396236613964616364323832362e676966" width="600" />
+  <img src="https://camo.githubusercontent.com/9bae09b25f694bd29eace7d6ce4c455a84e182af19953dc6daf3a1decb4876b0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36612f37322f37662f36613732376662616439646136313035633532396236613964616364323832362e676966" width="350" />
 </p>
 
 
