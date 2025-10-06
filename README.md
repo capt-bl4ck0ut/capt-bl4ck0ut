@@ -48,7 +48,7 @@
 - 🧪 [**WebVulnLab**](https://portswigger.net/web-security/all-topics)  
   > A vulnerable-by-design web app for practicing OWASP Top 10 in real-world contexts.
 
-- ⚔️ [**CTF-Writeups**](https://capt-webk5.github.io/bl4ck0ut.github.io/)  
+- ⚔️ [**CTF-Writeups**](https://capt-bl4ck0ut.github.io/)  
   > Writeups for CTF challenges, mostly web.
 ---
 ## 🧪 Connect With Me
