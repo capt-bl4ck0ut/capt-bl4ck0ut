@@ -42,15 +42,6 @@
 ![ffuf](https://img.shields.io/badge/ffuf-blue?style=flat)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2e77bc?style=flat&logo=metasploit&logoColor=white)
 
-
-## 🚀 Featured Projects
-
-- 🧪 [**WebVulnLab**](https://portswigger.net/web-security/all-topics)  
-  > A vulnerable-by-design web app for practicing OWASP Top 10 in real-world contexts.
-
-- ⚔️ [**CTF-Writeups**](https://capt-bl4ck0ut.github.io/)  
-  > Writeups for CTF challenges, mostly web.
----
 ## 🧪 Connect With Me
 <p align="center"> <a href="mailto:phucv1513@gmail.com" target="_blank"> <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://discord.com/channels/1351210288363470889/1382963686708088852" target="_blank"> <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
 🧠 “Hack to learn, not learn to hack.” – Ethical Hackers VSL
