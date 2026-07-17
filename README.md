@@ -1,7 +1,7 @@
 <!-- CYBER PROFILE README | capt-bl4ck0ut -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,45:FF2DB2,100:00D9FF&text=V%C4%83n%20Ph%C3%BAc%20%7C%20capt-bl4ck0ut&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Web%20Pentester%20%7C%20CTF%20Player%20%7C%20Cybersecurity%20Learner&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Cyber header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,45:FF2DB2,100:00D9FF&text=V%C4%83n%20Ph%C3%BAc%20%7C%20capt-bl4ck0ut&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Web%20Pentester%20%7C%20CTF%20Player%20%7C%20Researcher%20Security&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Cyber header" />
 </p>
 
 <p align="center">
@@ -11,29 +11,18 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=capt-bl4ck0ut&label=PROFILE+VIEWS&style=for-the-badge&color=ff69b4" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=capt-bl4ck0ut&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS&style=for-the-badge&color=ff69b4" alt="Eye profile views" />
   <img src="https://img.shields.io/github/followers/capt-bl4ck0ut?style=for-the-badge&logo=github&color=00d9ff&labelColor=0d1117" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Focus-Web%20Security-ff2db2?style=for-the-badge&labelColor=0d1117" alt="Focus web security" />
 </p>
 
-<table>
-  <tr>
-    <td width="58%">
-      <h2>root@bl4ck0ut:~$ whoami</h2>
-      <p>
-        I am <b>Văn Phúc</b>, a cybersecurity learner focused on web application security, CTFs, and building a clean offensive-security mindset.
-      </p>
-      <ul>
-        <li>Currently sharpening my <b>web pentest</b>, <b>PWN</b>, <b>CVE research</b>, <b>Bug Bounty</b>, and Linux skills.</li>
-        <li>I like finding bugs, writing notes, and turning labs into muscle memory.</li>
-        <li>Motto: <i>Hack to learn, not learn to hack.</i></li>
-      </ul>
-    </td>
-    <td width="42%" align="center">
-      <img src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" width="360" alt="Cyber security animated banner" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/capt-bl4ck0ut/capt-bl4ck0ut/main/assets/terminal-profile.svg" width="100%" alt="Animated Linux terminal profile" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" width="360" alt="Cyber security animated banner" />
+</p>
 
 ---
 
