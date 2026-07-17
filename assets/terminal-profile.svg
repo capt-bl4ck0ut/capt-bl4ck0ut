@@ -86,13 +86,13 @@
   <circle cx="82" cy="30" r="7" fill="#27c93f"/>
   <text x="490" y="36" text-anchor="middle" fill="#8b949e" font-family="Consolas, 'Fira Code', monospace" font-size="15">profile.sh - bl4ck0ut terminal</text>
 
-  <g font-family="Consolas, 'Fira Code', monospace" font-size="23" font-weight="700">
+  <g font-family="Consolas, 'Fira Code', monospace" font-size="23" font-weight="800" font-style="italic">
     <text x="40" y="100" fill="#e6edf3" clip-path="url(#clip1)">root@bl4ck0ut:~$ whoami</text>
     <text x="40" y="136" fill="#00d9ff" clip-path="url(#clip2)">bl4ck0ut</text>
     <text x="40" y="178" fill="#e6edf3" clip-path="url(#clip3)">root@bl4ck0ut:~$ My Profile</text>
   </g>
 
-  <g font-family="Consolas, 'Fira Code', monospace" font-size="22" font-weight="600">
+  <g font-family="Consolas, 'Fira Code', monospace" font-size="22" font-weight="800" font-style="italic">
     <text x="40" y="220" fill="#ffffff" clip-path="url(#clip4)">I am Văn Phúc, a cybersecurity learner focused</text>
     <text x="40" y="250" fill="#ffffff" clip-path="url(#clip5)">on web application security, CTFs, and building</text>
     <text x="40" y="280" fill="#ffffff" clip-path="url(#clip6)">a clean offensive-security mindset.</text>
