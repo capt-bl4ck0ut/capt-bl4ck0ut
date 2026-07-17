@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520" role="img" aria-labelledby="title desc">
+  <title id="title">Animated Linux terminal profile for bl4ck0ut</title>
+  <desc id="desc">A looping terminal animation that types whoami, prints bl4ck0ut, then shows the profile text.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff2db2" stop-opacity="0.95"/>
+      <stop offset="50%" stop-color="#7c3aed" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#00d9ff" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070b12"/>
+      <stop offset="55%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="clip1" clipPathUnits="userSpaceOnUse">
+      <rect x="40" y="76" width="0" height="30">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.04;0.14;0.94;1" values="0;0;365;365;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip2" clipPathUnits="userSpaceOnUse">
+      <rect x="40" y="112" width="0" height="30">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.15;0.21;0.94;1" values="0;0;110;110;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip3" clipPathUnits="userSpaceOnUse">
+      <rect x="40" y="154" width="0" height="30">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.24;0.38;0.94;1" values="0;0;415;415;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip4" clipPathUnits="userSpaceOnUse">
+      <rect x="40" y="196" width="0" height="30">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.40;0.48;0.94;1" values="0;0;660;660;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip5" clipPathUnits="userSpaceOnUse">
+      <rect x="40" y="226" width="0" height="30">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.49;0.57;0.94;1" values="0;0;665;665;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip6" clipPathUnits="userSpaceOnUse">
+      <rect x="40" y="256" width="0" height="30">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.58;0.64;0.94;1" values="0;0;470;470;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip7" clipPathUnits="userSpaceOnUse">
+      <rect x="60" y="306" width="0" height="30">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.65;0.72;0.94;1" values="0;0;650;650;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip8" clipPathUnits="userSpaceOnUse">
+      <rect x="84" y="336" width="0" height="30">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.73;0.79;0.94;1" values="0;0;620;620;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip9" clipPathUnits="userSpaceOnUse">
+      <rect x="60" y="386" width="0" height="30">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.80;0.86;0.94;1" values="0;0;560;560;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip10" clipPathUnits="userSpaceOnUse">
+      <rect x="84" y="416" width="0" height="30">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.87;0.91;0.94;1" values="0;0;455;455;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip11" clipPathUnits="userSpaceOnUse">
+      <rect x="60" y="456" width="0" height="30">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.91;0.94;0.98;1" values="0;0;610;610;0"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="980" height="520" rx="18" fill="url(#frame)" filter="url(#softGlow)"/>
+  <rect x="7" y="7" width="966" height="506" rx="15" fill="url(#screen)"/>
+  <rect x="7" y="7" width="966" height="46" rx="15" fill="#161b22"/>
+  <rect x="7" y="38" width="966" height="15" fill="#161b22"/>
+  <circle cx="34" cy="30" r="7" fill="#ff5f56"/>
+  <circle cx="58" cy="30" r="7" fill="#ffbd2e"/>
+  <circle cx="82" cy="30" r="7" fill="#27c93f"/>
+  <text x="490" y="36" text-anchor="middle" fill="#8b949e" font-family="Consolas, 'Fira Code', monospace" font-size="15">profile.sh - bl4ck0ut terminal</text>
+
+  <g font-family="Consolas, 'Fira Code', monospace" font-size="23" font-weight="700">
+    <text x="40" y="100" fill="#e6edf3" clip-path="url(#clip1)">root@bl4ck0ut:~$ whoami</text>
+    <text x="40" y="136" fill="#00d9ff" clip-path="url(#clip2)">bl4ck0ut</text>
+    <text x="40" y="178" fill="#e6edf3" clip-path="url(#clip3)">root@bl4ck0ut:~$ My Profile</text>
+  </g>
+
+  <g font-family="Consolas, 'Fira Code', monospace" font-size="22" font-weight="600">
+    <text x="40" y="220" fill="#ffffff" clip-path="url(#clip4)">I am Văn Phúc, a cybersecurity learner focused</text>
+    <text x="40" y="250" fill="#ffffff" clip-path="url(#clip5)">on web application security, CTFs, and building</text>
+    <text x="40" y="280" fill="#ffffff" clip-path="url(#clip6)">a clean offensive-security mindset.</text>
+
+    <text x="60" y="330" fill="#ff2db2" clip-path="url(#clip7)">• Currently sharpening web pentest, PWN,</text>
+    <text x="84" y="360" fill="#ff2db2" clip-path="url(#clip8)">CVE research, Bug Bounty, and Linux skills.</text>
+
+    <text x="60" y="410" fill="#00d9ff" clip-path="url(#clip9)">• I like finding bugs, writing notes,</text>
+    <text x="84" y="440" fill="#00d9ff" clip-path="url(#clip10)">and turning labs into muscle memory.</text>
+
+    <text x="60" y="480" fill="#facc15" clip-path="url(#clip11)">• Motto: Hack to learn, not learn to hack.</text>
+  </g>
+
+  <rect x="690" y="463" width="12" height="24" fill="#00d9ff">
+    <animate attributeName="opacity" dur="0.7s" repeatCount="indefinite" values="1;0;1"/>
+  </rect>
+</svg>
