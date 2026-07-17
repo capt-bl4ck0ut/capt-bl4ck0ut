@@ -72,6 +72,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" />
+</p>
+
 ---
 
 <h2 align="center">GitHub Intel</h2>
