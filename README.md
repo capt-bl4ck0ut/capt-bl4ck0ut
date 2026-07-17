@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/capt-bl4ck0ut">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF2DB2&center=true&vCenter=true&random=false&width=850&lines=Hack+to+learn%2C+not+learn+to+hack.;Breaking+labs+%E2%80%A2+Building+skills+%E2%80%A2+Writing+notes;Web+Pentest+%7C+PWN+%7C+CTF+%7C+Linux" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF2DB2&center=true&vCenter=true&random=false&width=900&lines=Hack+to+learn%2C+not+learn+to+hack.;Breaking+labs+%E2%80%A2+Building+skills+%E2%80%A2+Writing+notes;Web+Pentest+%7C+PWN+%7C+CVE+Research+%7C+Bug+Bounty+%7C+Linux" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,12 +19,12 @@
 <table>
   <tr>
     <td width="58%">
-      <h2>root@blackout:~$ whoami</h2>
+      <h2>root@bl4ck0ut:~$ whoami</h2>
       <p>
         I am <b>Văn Phúc</b>, a cybersecurity learner focused on web application security, CTFs, and building a clean offensive-security mindset.
       </p>
       <ul>
-        <li>Currently sharpening my <b>web pentest</b>, <b>PWN</b>, and Linux skills.</li>
+        <li>Currently sharpening my <b>web pentest</b>, <b>PWN</b>, <b>CVE research</b>, <b>Bug Bounty</b>, and Linux skills.</li>
         <li>I like finding bugs, writing notes, and turning labs into muscle memory.</li>
         <li>Motto: <i>Hack to learn, not learn to hack.</i></li>
       </ul>
@@ -53,21 +53,29 @@
 
 ---
 
-<h2 align="center">Mission Board</h2>
+<h2 align="center">Current Focus</h2>
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <b>Web Security</b><br/>
-      XSS • SQLi • IDOR • Auth bugs
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/WEB-PENTEST-FF2DB2?style=for-the-badge&labelColor=0D1117" alt="Web pentest" /><br/>
+      XSS • SQLi • IDOR
     </td>
-    <td align="center" width="33%">
-      <b>CTF Grind</b><br/>
-      Web • PWN • Crypto basics
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/PWN-BINARY-00D9FF?style=for-the-badge&labelColor=0D1117" alt="PWN" /><br/>
+      Exploit basics
     </td>
-    <td align="center" width="33%">
-      <b>Ops Mindset</b><br/>
-      Linux • Scripting • Recon
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/CVE-RESEARCH-FFB000?style=for-the-badge&labelColor=0D1117" alt="CVE research" /><br/>
+      Reproduce • Patch diff
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/BUG-BOUNTY-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Bug bounty" /><br/>
+      Recon • Reports
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/LINUX-OPS-2DD4BF?style=for-the-badge&labelColor=0D1117" alt="Linux ops" /><br/>
+      Shell • Tools
     </td>
   </tr>
 </table>
