@@ -1,55 +1,111 @@
-<!-- HEADER -->
+<!-- CYBER PROFILE README | capt-bl4ck0ut -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" width="300" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,45:FF2DB2,100:00D9FF&text=V%C4%83n%20Ph%C3%BAc%20%7C%20capt-bl4ck0ut&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Web%20Pentester%20%7C%20CTF%20Player%20%7C%20Cybersecurity%20Learner&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Cyber header" />
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Van+Phuc+%E2%9D%A4%EF%B8%8F;+Web+Pentester+%F0%9F%96%A5%EF%B8%8F+%7C+CTF+Player+%F0%9F%96%A5%EF%B8%8F;%E2%9D%A4%EF%B8%8F+VKU+University+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <a href="https://github.com/capt-bl4ck0ut">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF2DB2&center=true&vCenter=true&random=false&width=850&lines=Hack+to+learn%2C+not+learn+to+hack.;Breaking+labs+%E2%80%A2+Building+skills+%E2%80%A2+Writing+notes;Web+Pentest+%7C+PWN+%7C+CTF+%7C+Linux" alt="Typing SVG" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=capt-bl4ck0ut&label=PROFILE+VIEWS&style=for-the-badge&color=ff69b4" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/capt-bl4ck0ut?style=for-the-badge&logo=github&color=00d9ff&labelColor=0d1117" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Security-ff2db2?style=for-the-badge&labelColor=0d1117" alt="Focus web security" />
+</p>
+
+<table>
+  <tr>
+    <td width="58%">
+      <h2>root@blackout:~$ whoami</h2>
+      <p>
+        I am <b>Văn Phúc</b>, a cybersecurity learner focused on web application security, CTFs, and building a clean offensive-security mindset.
+      </p>
+      <ul>
+        <li>Currently sharpening my <b>web pentest</b>, <b>PWN</b>, and Linux skills.</li>
+        <li>I like finding bugs, writing notes, and turning labs into muscle memory.</li>
+        <li>Motto: <i>Hack to learn, not learn to hack.</i></li>
+      </ul>
+    </td>
+    <td width="42%" align="center">
+      <img src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" width="360" alt="Cyber security animated banner" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">Arsenal</h2>
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepo/blob/main/assets/cyber-banner.gif?raw=true" alt="Cybersecurity Banner" width="600"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,js,php,linux,git,mysql,sqlite,vscode,docker&theme=dark&perline=10" alt="Skill icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/SQLMap-F2C744?style=for-the-badge&logo=sqlite&logoColor=111111" alt="SQLMap" />
+  <img src="https://img.shields.io/badge/ffuf-00D9FF?style=for-the-badge&logo=fastapi&logoColor=111111" alt="ffuf" />
+  <img src="https://img.shields.io/badge/Metasploit-2E77BC?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
 </p>
 
 ---
 
-## 🧠 About Me
+<h2 align="center">Mission Board</h2>
 
-- 🔍 Passionate about discovering vulnerabilities in web applications.
-- 🧑‍💻 I am currently working on improving my pentest skills.
-- 🏆 Love playing **CTFs** (especially Web and PWN challenges).
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Web Security</b><br/>
+      XSS • SQLi • IDOR • Auth bugs
+    </td>
+    <td align="center" width="33%">
+      <b>CTF Grind</b><br/>
+      Web • PWN • Crypto basics
+    </td>
+    <td align="center" width="33%">
+      <b>Ops Mindset</b><br/>
+      Linux • Scripting • Recon
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 🧰 Toolbox
+<h2 align="center">GitHub Intel</h2>
 
-### Programming & Scripting:
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-
-
-### Pentest Tools:
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff5722?logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?logo=nmap)
-![SQLMap](https://img.shields.io/badge/SQLMap-yellow?style=flat&logoColor=black)
-![ffuf](https://img.shields.io/badge/ffuf-blue?style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-2e77bc?style=flat&logo=metasploit&logoColor=white)
-
-## 🧪 Connect With Me
-<p align="center"> <a href="mailto:phucv1513@gmail.com" target="_blank"> <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://discord.com/channels/1351210288363470889/1382963686708088852" target="_blank"> <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
-🧠 “Hack to learn, not learn to hack.” – Ethical Hackers VSL
->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Thank+you+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F%F0%9F%94%90" alt="Typing SVG" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=capt-bl4ck0ut&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF2DB2&icon_color=00D9FF&text_color=E6EDF3" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=capt-bl4ck0ut&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF2DB2&text_color=E6EDF3" alt="Top languages" />
 </p>
-<img width="444" height="376" alt="image" src="https://github.com/user-attachments/assets/d2323832-e6d0-48c8-b79e-d5e8f1833fbc" />
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=capt-bl4ck0ut&theme=radical&hide_border=true&background=0D1117&ring=FF2DB2&fire=FF2DB2&currStreakLabel=00D9FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=capt-bl4ck0ut&bg_color=0D1117&color=E6EDF3&line=FF2DB2&point=00D9FF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+</p>
 
+---
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+  <a href="mailto:phucv1513@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/channels/1351210288363470889/1382963686708088852">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Thanks+for+dropping+by.;Stay+curious.+Stay+ethical.+Keep+learning." alt="Closing typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,50:FF2DB2,100:0D1117" width="100%" alt="Footer wave" />
+</p>
