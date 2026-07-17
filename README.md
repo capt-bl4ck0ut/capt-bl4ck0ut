@@ -26,7 +26,11 @@
 
 ---
 
-<h2 align="center">Arsenal</h2>
+<h2 align="center"><i><b>Web Pentest Arsenal</b></i></h2>
+
+<p align="center">
+  <i><b>Reconnaissance • Web Exploitation • CVE Labs • Bug Bounty Reports</b></i>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,js,php,linux,git,mysql,sqlite,vscode,docker&theme=dark&perline=10" alt="Skill icons" />
@@ -40,31 +44,19 @@
   <img src="https://img.shields.io/badge/Metasploit-2E77BC?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
 </p>
 
----
-
-<h2 align="center">Current Focus</h2>
-
 <table>
   <tr>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/WEB-PENTEST-FF2DB2?style=for-the-badge&labelColor=0D1117" alt="Web pentest" /><br/>
-      XSS • SQLi • IDOR
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/RECON-MAPPING-FF2DB2?style=for-the-badge&labelColor=0D1117" alt="Recon mapping" /><br/>
+      <sub><i><b>Subdomains • Params • Endpoints</b></i></sub>
     </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/PWN-BINARY-00D9FF?style=for-the-badge&labelColor=0D1117" alt="PWN" /><br/>
-      Exploit basics
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/WEB-EXPLOIT-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Web exploit" /><br/>
+      <sub><i><b>XSS • SQLi • IDOR • SSRF</b></i></sub>
     </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/CVE-RESEARCH-FFB000?style=for-the-badge&labelColor=0D1117" alt="CVE research" /><br/>
-      Reproduce • Patch diff
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/BUG-BOUNTY-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Bug bounty" /><br/>
-      Recon • Reports
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/LINUX-OPS-2DD4BF?style=for-the-badge&labelColor=0D1117" alt="Linux ops" /><br/>
-      Shell • Tools
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/REPORT-RESEARCH-FFB000?style=for-the-badge&labelColor=0D1117" alt="Report research" /><br/>
+      <sub><i><b>CVE • Notes • Writeups</b></i></sub>
     </td>
   </tr>
 </table>
