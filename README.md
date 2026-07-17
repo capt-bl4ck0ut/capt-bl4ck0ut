@@ -81,12 +81,17 @@
 <h2 align="center">GitHub Intel</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=capt-bl4ck0ut&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF2DB2&icon_color=00D9FF&text_color=E6EDF3" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=capt-bl4ck0ut&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF2DB2&text_color=E6EDF3" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=capt-bl4ck0ut&theme=radical" width="100%" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=capt-bl4ck0ut&theme=radical&hide_border=true&background=0D1117&ring=FF2DB2&fire=FF2DB2&currStreakLabel=00D9FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=capt-bl4ck0ut&theme=radical" width="49%" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=capt-bl4ck0ut&theme=radical" width="49%" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=capt-bl4ck0ut&theme=radical" width="49%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=capt-bl4ck0ut&theme=radical&utcOffset=7" width="49%" alt="Productive time" />
 </p>
 
 <p align="center">
