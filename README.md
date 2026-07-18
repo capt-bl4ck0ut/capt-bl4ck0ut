@@ -44,22 +44,6 @@
   <img src="https://img.shields.io/badge/Metasploit-2E77BC?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/RECON-MAPPING-FF2DB2?style=for-the-badge&labelColor=0D1117" alt="Recon mapping" /><br/>
-      <sub><i><b>Subdomains • Params • Endpoints</b></i></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/WEB-EXPLOIT-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Web exploit" /><br/>
-      <sub><i><b>XSS • SQLi • IDOR • SSRF</b></i></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/REPORT-RESEARCH-FFB000?style=for-the-badge&labelColor=0D1117" alt="Report research" /><br/>
-      <sub><i><b>CVE • Notes • Writeups</b></i></sub>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" />
